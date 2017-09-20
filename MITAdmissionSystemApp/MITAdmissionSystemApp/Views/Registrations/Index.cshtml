@@ -1,0 +1,150 @@
+﻿@model IEnumerable<MITAdmissionSystemApp.Models.Registration>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+}
+<h3>All Paid Applicant</h3>
+<table class="table">
+    <tr>
+        <th>SN</th>
+        <th>
+            @Html.DisplayNameFor(model => model.NameofApplicant)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.DateofBirth)
+        </th>
+
+        <th>
+            @Html.DisplayName("Refference Id")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrxId)
+        </th>
+        <th>Payment Status</th>
+        <th></th>
+    </tr>
+    @{ int i = 1; }
+    @foreach (var item in Model)
+    {
+
+        <tr id="@item.Id">
+            <td>@i</td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameofApplicant)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DateofBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrxId)
+            </td>
+            <td>
+                <button value="1" name="@item.Id" title="Click here to Remove from List" ondblclick="return  DeleteApplicantByClick(@item.Id)">Reject</button>
+                <button value="1" name="@item.Id" title="Click here to See full Info" onclick="ViewApplicantByClick(@item.Id)">View Full</button>
+
+            </td>
+            <td>
+
+                @Html.ActionLink("Details", "Details", new { id = item.Id })
+
+            </td>
+        </tr>
+
+        i++;
+    }
+
+</table>
+
+<div id="ViewApplicantPopup" style="display: none">this is View</div>
+
+
+<script>
+    function DeleteApplicantByClick(Id) {
+
+        if (Id > 0) {
+            $.ajax({
+                url: '@Url.Action("DeleteApplicantFromListByClick", "Registrations")',
+                data: { Id: Id },
+                success: function (result) {
+
+                }
+            });
+            $("#" + Id).empty();
+        }
+    };
+</script>
+
+<script>
+    function ViewApplicantByClick(Id) {
+
+        if (Id > 0) {
+            $.ajax({
+                url: '@Url.Action("ViewApplicantByClick", "Registrations")',
+                data: { Id: Id },
+                success: function (result) {
+
+                    Options = "<table>" +
+                        "<tr> <td>ID</td> <td>" + result['Id'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>Applicant</td> <td>" + result['NameofApplicant'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>FatherName</td> <td>" + result['FatherName'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>MotherName</td> <td>" + result['MotherName'] + "</td> <td> </td> </tr>" +
+                        "</table>"+
+                    "<div>" +
+                            "<h3>Accademic Qualification</h3> " +
+                            "<table>" +
+                        "<tr> <td>ID</td> <td>" + result['Id'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>Applicant</td> <td>" + result['NameofApplicant'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>FatherName</td> <td>" + result['FatherName'] + "</td> <td> </td> </tr>" +
+                        "<tr> <td>MotherName</td> <td>" + result['MotherName'] + "</td> <td> </td> </tr>" +
+                        "</table>" +
+
+                          "<img src='../"+result['PhotoPath']+"' width='100' height='100'/>"+
+                            "<img src='../"+result['SignaturePath']+"' width='100' height='100'/>"+
+                              "<img src='../"+result['BachelorCertificatePath']+"' width='100' height='100'/>"+
+
+  " <button value=1 name='+ result['Id'] +' title='Click here to Remove from List' ondblclick='return  DeleteApplicantByClick(+ result['Id'] +)'>Rejact</button>"+
+
+                            "</div>"
+
+                    ;
+
+
+                    $("#ViewApplicantPopup").empty();
+                    $("#ViewApplicantPopup").append(Options);
+                }
+            });
+
+            $("#ViewApplicantPopup").dialog({
+                resizable: false,
+                height: 500,
+                modal: true,
+                minWidth: 1000,
+                buttons: {
+                    "OK": function () {
+                        $(this).dialog("close");
+                    },
+                    Cancel: function () {
+                        $(this).dialog("close");
+                    }
+                }
+            });
+
+
+        }
+    };
+</script>

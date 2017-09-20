@@ -1,0 +1,117 @@
+﻿@model IEnumerable<MITAdmissionSystemApp.Models.Registration>
+
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+}
+
+
+@Html.ActionLink("Confirmed Paid Applicant List", "ConfirmPaidApplicant", "Payment")&nbsp;&nbsp;&nbsp;
+@Html.ActionLink("Unpaid Applicant List", "UnPaidApplicant", "Payment")
+
+<h3>List of Applicant who sent transaction Id</h3>
+
+<table class="table">
+    <tr>
+        <th>SN</th>
+        <th>
+            @Html.DisplayNameFor(model => model.NameofApplicant)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.DateofBirth)
+        </th>
+
+        <th>
+            @Html.DisplayName("Refference Id")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrxId)
+        </th>
+        <th>Payment Status</th>
+        
+    </tr>
+    @{ int i = 1; }
+    @foreach (var item in Model)
+    {
+
+        <tr id="@item.Id">
+            <td>@i</td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameofApplicant)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DateofBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrxId)
+            </td>
+            <td>
+
+                @if ((item.PayStatus) == 0)
+                {
+                    <button value="1" name="@item.Id" title="Click here to Confirm Payment" ondblclick="return  Payment(@item.Id)">Make Payment Confirm</button>
+                }
+                else
+                {
+                    <button value="1" name="@item.Id" disabled="disabled">Paid</button>
+                }
+                
+                <button value="1" name="@item.Id" title="Click here to remove Missmatch Payment" ondblclick="return  MissMatchPayment(@item.Id)">Missmatch TrxId or Amount Submited</button>
+
+            </td>
+            
+        </tr>
+
+                i++;
+    }
+
+</table>
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+
+<script>
+    function Payment(Id) {
+
+        if (Id > 0) {
+            $.ajax({
+                url: '@Url.Action("ConfirmPaymentByClick", "Payment")',
+                data: { Id: Id },
+                success: function (result) {
+                  
+                }
+            });
+            $("#" + Id).empty();
+        }
+    };
+</script>
+
+<script>
+    function MissMatchPayment(Id) {
+
+        if (Id > 0) {
+            $.ajax({
+                url: '@Url.Action("MissMatchPaymentByClick", "Payment")',
+                data: { Id: Id },
+                success: function (result) {
+
+                }
+            });
+            $("#" + Id).empty();
+        }
+    };
+</script>

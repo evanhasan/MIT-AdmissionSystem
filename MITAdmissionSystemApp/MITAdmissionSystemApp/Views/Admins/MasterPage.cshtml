@@ -1,0 +1,29 @@
+﻿
+@{
+    ViewBag.Title = "MasterPage";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+}
+<style>
+    h4 {
+        color: orangered;
+    }
+    h3 {
+        background-color: white;
+        color: orangered;
+        padding: 3px;
+    }
+</style>
+<h3>Current Statistics</h3>
+<hr/>
+<h4>Total Applications:  @ViewBag.AllCount</h4>
+<progress value="@ViewBag.AllCount" max="@ViewBag.AllCount" style="width: 80%"></progress>
+
+<h4>Total Paid Applicants: @ViewBag.Paid</h4>
+<progress value="@ViewBag.Paid" max="@ViewBag.AllCount" style="width: 80%"></progress>
+
+<h4>Total Unpaid Applicants: @ViewBag.unpaid</h4>
+<progress value="@ViewBag.unpaid" max="@ViewBag.AllCount" style="width: 80%"></progress>
+
+<h4>Total Rejected Applicants: @ViewBag.rejected</h4>
+<progress value="@ViewBag.rejected" max="@ViewBag.AllCount" style="width: 80%"></progress>
+

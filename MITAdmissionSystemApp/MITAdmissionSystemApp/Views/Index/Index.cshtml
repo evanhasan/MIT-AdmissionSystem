@@ -1,0 +1,56 @@
+﻿@using MITAdmissionSystemApp.Models
+@model MITAdmissionSystemApp.Models.Settings
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Index.cshtml";
+    string Brochure = Model.Brochure;
+}
+<style>
+    .IndexBody {
+       
+        padding: 0px;
+        border-radius: 10px;
+        overflow: hidden;
+        border: 1px solid black;
+        }
+     .IndexBody2 {
+        padding: 10px;
+        }
+    .Examheader {
+        background-color: steelblue;
+         width: 100%;
+         color: white;
+    }
+   .IndexBody2 a {
+       text-decoration: none!important;
+       color: black;
+       font-weight: bold;
+
+   }
+
+</style>
+<br/>
+<div class="IndexBody">
+    <div class="Examheader"><marquee><h4>@Html.DisplayFor(x => x.ExamName) - Registration is going on</h4></marquee></div>
+    
+    <div class="IndexBody2">
+        <h4>Exam Details:</h4>
+        <p style="white-space: pre-wrap">@Model.ExamDescription</p>
+        <hr/>
+        @Html.LabelFor(x => x.RegStartDate)
+        @Model.RegStartDate.ToLongDateString()
+        <br />
+
+        @Html.LabelFor(x => x.RegEndDate)
+        @Model.RegEndDate.ToLongDateString()
+
+        <br />
+        @Html.LabelFor(x => x.ExamDate)
+        @Model.ExamDate.ToLongDateString()
+        <hr/>
+
+        <button  class="btn btn-info"> <a  href="@Model.Brochure.ToString()">Download Brochure</a></button>
+        
+        <button class="btn btn-info"> @Html.ActionLink("Registration", "Registration", "Applicant")</button>
+</div>
+</div>

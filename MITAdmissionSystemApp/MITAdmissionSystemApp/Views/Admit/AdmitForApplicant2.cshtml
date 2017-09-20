@@ -1,0 +1,68 @@
+﻿@model MITAdmissionSystemApp.Models.Registration
+@{
+    ViewBag.Title = "AdmitForApplicant";
+    Layout = "~/Views/Shared/Blank.cshtml";
+}
+
+<div class="col-sm-push-12" style="margin-top:-100px">
+    <img src="/Content/Images/Banar.jpg" height="170" width="170"/>
+
+</div>
+
+<h3 align="center">@ViewBag.NameofAdmission Admit Card</h3>
+
+<table class="table" width="100">
+    <tr>
+        <td>Name of Applicant</td>
+        <td>@Html.DisplayFor(x => x.NameofApplicant)</td>
+        <td rowspan="4"><img src="@Url.Content("/"+Model.PhotoPath)" width="140" height="140" style="float: right" /></td>
+    </tr>
+    <tr>
+        <td>Father's Name</td>
+        <td>@Html.DisplayFor(x => x.FatherName)</td>
+
+    </tr>
+    <tr>
+        <td>Roll Number</td>
+        <td>@Html.DisplayFor(x => x.RollNumber)</td>
+        
+    </tr>
+    <tr>
+        <td>Mobile Number</td>
+        <td>@Html.DisplayFor(x => x.MobileNo)</td>
+
+    </tr>
+    <tr>
+        <td colspan="2"><img src="@Url.Content("/"+Model.SignaturePath)" width="180" height="70" /></td>
+        
+    </tr>
+</table>
+
+<div style="white-space: pre-wrap">
+    <h4>General instructions for applicants</h4>
+        01 This admit card will be applicable for preliminary test, written examination and viva voce.
+
+        02 Applicant must carry this admit card during every examination.
+
+        03 Applicant must sit in the examination hall at least 30 minutes prior to preliminary test and 15 minutes prior to written examination. On the day of Preliminary
+
+        test, it is forbidden to leave the hall before the test ends.
+
+        04 Applicant is prohibited from bringing books, bag, mobile phone or any other type of communication device. Applicant is not allowed to use any type of
+
+        calculator in Preliminary Test but allowed to use non-scientific calculator in written exam.
+
+        05 Applicant must use the same signature for application, attendance sheet and answer script.
+
+        06 Applicant will not be allowed entry in the examination hall after distribution of the question paper for preliminary test.
+
+        07 Applicant must use black ink ball point pen to fill up all parts and circles of preliminary test answer sheet and top sheet of written answer script.
+
+        08 Applicant is barred from entering the examination hall 15 minutes after the written examination starts.
+
+        09 Applicant must report at least 30 minutes before the scheduled time for viva voce.
+</div>
+
+
+
+

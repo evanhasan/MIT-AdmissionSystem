@@ -1,0 +1,73 @@
+﻿@model IEnumerable<MITAdmissionSystemApp.Models.Registration>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+}
+
+
+@Html.ActionLink("Paid Applicant List", "Index", "Payment") &nbsp;&nbsp;&nbsp;&nbsp;
+@Html.ActionLink("Confirmed Paid Applicant List", "ConfirmPaidApplicant", "Payment")
+<h3>List of Unpaid Applicant </h3>
+
+<table class="table">
+    <tr>
+        <th>SN</th>
+        <th>
+            @Html.DisplayNameFor(model => model.NameofApplicant)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.Email)
+        </th>
+
+        <th>
+            @Html.DisplayNameFor(model => model.DateofBirth)
+        </th>
+
+        <th>
+            @Html.DisplayName("Refference Id")
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.TrxId)
+        </th>
+        <th>Payment Status</th>
+
+    </tr>
+    @{ int i = 1; }
+    @foreach (var item in Model)
+    {
+
+        <tr id="@item.Id">
+            <td>@i</td>
+            <td>
+                @Html.DisplayFor(modelItem => item.NameofApplicant)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+
+            <td>
+                @Html.DisplayFor(modelItem => item.DateofBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.TrxId)
+            </td>
+            <td>
+                <button>Unpaid</button>
+            </td>
+
+        </tr>
+
+        i++;
+    }
+
+</table>
+<script src="~/Scripts/jquery-3.1.1.min.js"></script>
+<script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+<script src="~/Scripts/bootstrap.min.js"></script>
+

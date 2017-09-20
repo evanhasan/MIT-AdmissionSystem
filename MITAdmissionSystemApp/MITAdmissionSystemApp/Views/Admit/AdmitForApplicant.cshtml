@@ -1,0 +1,44 @@
+﻿@model MITAdmissionSystemApp.Models.Registration
+@{
+    ViewBag.Title = "AdmitForApplicant";
+    Layout = "~/Views/Shared/Applicant.cshtml";
+}
+
+
+<h3> @ViewBag.Message </h3>
+
+
+@if (ViewBag.count != null && ViewBag.count > 0)
+{
+    <h3 align="center">@ViewBag.NameofAdmission Admit Card</h3>
+    
+    <button class="btn btn-warning"> <a href="/Admit/DownloadAdmit?Id=@ViewBag.Id">Download Admit</a></button>
+
+    <table class="table" width="100">
+        <tr>
+            <td>Name of Applicant</td>
+            <td>@Html.DisplayFor(x => x.NameofApplicant)</td>
+            <td rowspan="4"><img src="@Url.Content("/"+Model.PhotoPath)" width="140" height="140" /></td>
+        </tr>
+        <tr>
+            <td>Father's Name</td>
+            <td>@Html.DisplayFor(x => x.FatherName)</td>
+
+        </tr>
+        <tr>
+            <td>Roll Number</td>
+            <td>@Html.DisplayFor(x => x.RollNumber)</td>
+
+        </tr>
+        <tr>
+            <td>Mobile Number</td>
+            <td>@Html.DisplayFor(x => x.MobileNo)</td>
+
+        </tr>
+      
+    </table>
+  @*<button>@Html.ActionLink("Download Admit", "DownloadAdmit", "Admit")</button>*@
+  
+}
+
+

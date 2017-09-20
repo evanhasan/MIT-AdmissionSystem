@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+   var ListOfApplicant=  ViewBag.SelectedListForAdmission;
+    int i = 1;
+}
+
+<h4 align="center" >Selected List For MIT Admission Test</h4>
+<button class="btn btn-warning">@Html.ActionLink("Export PDF", "DownloadListofApplicant", "Admit")
+</button>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <td>SN</td>
+        
+        <th>Name</th>
+        <th>Mobile</th>
+        <th>Roll</th>
+        <th>Photo</th>
+        <th>Signature</th>
+    </tr>
+    
+        @foreach (var Applicant in ListOfApplicant)
+        {
+            <tr>
+                <td>@i</td>
+                <td>@Applicant.NameofApplicant</td>
+                <td>@Applicant.MobileNo</td>
+                <td>@Applicant.RollNumber</td>
+                <td><img src="@Url.Content("~/" + Applicant.PhotoPath)" width="50" height="50" /></td>
+                <td><img src="@Url.Content("~/" + Applicant.SignaturePath)" width="150" height="50" /></td>
+              
+            </tr>           
+             i++;
+        }
+        
+</table>

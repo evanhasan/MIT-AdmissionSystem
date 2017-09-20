@@ -1,0 +1,341 @@
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.Bachelor.resources
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.Bachelor1.resources
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.admin1.resources
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+C:\Users\EvanIIT\Desktop\project mit\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+C:\Users\EvanIIT\Desktop\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+H:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+D:\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+I:\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.ss.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.ss.resources
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+C:\Users\Rajkumari\Desktop\MIT Project\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RegPoint.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Recaptcha.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Rotativa.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\SRVTextToImage.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.pdb
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Recaptcha.pdb
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.ss.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RegPoint.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.Roll.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RangeofGpa.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.flotetoDouble.resources
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+D:\by salwa\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.PhotoRequired.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Rotativa.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.pdb
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Recaptcha.pdb
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.ss.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RegPoint.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.Roll.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RangeofGpa.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.flotetoDouble.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.PhotoRequired.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.point.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.salwa.resources
+E:\MIT\4th\Project Final\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.point1.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll.config
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\MITAdmissionSystemApp.pdb
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Rotativa.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.pdb
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\CaptchaMvc.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\EntityFramework.SqlServer.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\itextsharp.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\Recaptcha.pdb
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Razor.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Deployment.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Webpages.Razor.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Helpers.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\bin\System.Web.Mvc.xml
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csprojResolveAssemblyReference.cache
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All2.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All3.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All4.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All5.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.All6.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddShortListAdmit.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings1.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings2.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.AddSettings3.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.photorequiredReg.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.ss.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RegPoint.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.Roll.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.RangeofGpa.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.flotetoDouble.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.PhotoRequired.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.point.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.salwa.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.Migrations.point1.resources
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.csproj.GenerateResource.Cache
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.dll
+D:\All projects\All projects\MITAdmissionSystemApp\MITAdmissionSystemApp\MITAdmissionSystemApp\obj\Debug\MITAdmissionSystemApp.pdb

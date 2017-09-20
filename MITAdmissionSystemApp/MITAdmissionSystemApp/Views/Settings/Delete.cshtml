@@ -1,0 +1,161 @@
+﻿@model MITAdmissionSystemApp.Models.Settings
+
+@{
+    ViewBag.Title = "Delete";
+    Layout = "~/Views/Shared/Masterlayout.cshtml";
+}
+
+<h2>Delete</h2>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Settings</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamDescription)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamDescription)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RegStartDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RegStartDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.RegEndDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RegEndDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmitCardDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdmitCardDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamTime)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamTime)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Venue)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Venue)
+        </dd>
+
+       
+
+        <dt>
+            @Html.DisplayNameFor(model => model.WrittenTestResult)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.WrittenTestResult)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.VivaDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.VivaDate)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FinalResult)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FinalResult)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmissionDate)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdmissionDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmissionDateEnd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdmissionDateEnd)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.AdmissionDateWaitingList)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AdmissionDateWaitingList)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ClassStart)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ClassStart)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Brochure)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Brochure)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ExamFee)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ExamFee)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm()) {
+        @Html.AntiForgeryToken()
+
+        <div class="form-actions no-color">
+            <input type="submit" value="Delete" class="btn btn-default" /> |
+            @Html.ActionLink("Back to List", "Index")
+        </div>
+    }
+</div>

@@ -1,0 +1,83 @@
+﻿<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="shortcut icon" href="~/Content/Images/IITFavicon.gif" type="image/x-icon" />
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>@ViewBag.Title - </title>
+
+        <link href="~/Content/Site.css" rel="stylesheet" type="text/css" />
+        <script src="~/Scripts/modernizr-2.6.2.js"></script>
+
+
+        <script src="~/Scripts/jquery-3.1.1.js"></script>
+        <script src="~/Scripts/jquery-ui.js"></script>
+        <link href="~/Content/jquery-ui.css" rel="stylesheet" />
+        <script src="~/Scripts/bootstrap.js"></script>
+        <link href="~/Content/bootstrap.css" rel="stylesheet" />
+        <style>
+            .menu li a {
+                color: white !important;
+                text-decoration: none;
+            }
+
+            .menu li li a {
+                color: black !important;
+                text-decoration: none;
+            }
+
+            .menu li a:hover {
+                color: black !important;
+                text-decoration: none;
+                background-color: white !important;
+            }
+        </style>
+
+        <script>
+            $(document).ready(function () {
+                $('.dropdown-toggle').dropdown();
+            });
+
+        </script>
+        <style>
+            body {
+                background-color: white;
+            }
+        </style>
+
+    </head>
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top " style="background-color: brown;">
+        <div class="container">
+            <div class="navbar-header menu">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <li> @Html.ActionLink("Applicant Dashboard", "ApplicantDashboard", "Applicant", new { area = "" }, new { @class = "navbar-brand" })</li>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav menu">
+                    <li>@Html.ActionLink("Payment", "Payment", "Applicant")</li>
+                    <li>@Html.ActionLink("Admit Card", "AdmitForApplicant", "Admit")</li>
+                    <li>@Html.ActionLink("Result", "Result", "Applicant")</li>
+                    <li>@Html.ActionLink("Logout", "Logout", "Applicant")</li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="container body-content">
+        @RenderBody()
+        <hr />
+        <footer>
+            <p>&copy; @DateTime.Now.Year - MIT Admission System by Md.Abul Hasan</p>
+        </footer>
+    </div>
+
+    <script src="~/Scripts/jquery-1.10.2.min.js"></script>
+    <script src="~/Scripts/bootstrap.min.js"></script>
+</body>
+</html>

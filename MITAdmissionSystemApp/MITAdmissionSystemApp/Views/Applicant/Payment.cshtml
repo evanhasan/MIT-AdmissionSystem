@@ -1,0 +1,29 @@
+﻿@model MITAdmissionSystemApp.Models.Payment
+@{
+    ViewBag.Title = "Payment";
+    Layout = "~/Views/Shared/Applicant.cshtml";
+}
+
+<h2>Payment</h2>
+@using (Html.BeginForm())
+{
+    <table class="table table-bordered table-hover">
+        <tr>
+            <h3>Pay BDT 1250/- by Bkash to 01711223344 and use your Applicant Id As Referrence(**Recommended)</h3>
+            <h4>Please Pay within 48 hours otherwise your account will be removed by Admin </h4>
+
+        </tr>
+        <tr>
+            <td>@Html.Label("Applicant Id")</td>
+            <td>@ViewBag.ApplicantId</td>
+        </tr>
+        <tr>
+            <td>@Html.LabelFor(x => x.TrxId)</td>
+            <td>@Html.TextBoxFor(x => x.TrxId)</td>
+        </tr>
+        <tr>
+            <td><input type="submit" value="Submit" class="btn btn-default" /></td>
+            <td></td>
+        </tr>
+    </table>
+}

@@ -1,0 +1,11 @@
+﻿
+@{
+    ViewBag.Title = "IsPaid";
+    Layout = "~/Views/Shared/Applicant.cshtml";
+    var Applicant = @ViewBag.ApplicantInfo;
+}
+
+<h2>Dear @Applicant.NameofApplicant, <br/>  We have Received Your Payment</h2><br/>
+<p>Your Applicant No: @Applicant.Id  and Trx number: @Applicant.TrxId</p>
+
+

@@ -1,0 +1,156 @@
+﻿@model MITAdmissionSystemApp.Models.Registration
+@{
+    ViewBag.Title = "ApplicantDashboard";
+    Layout = "~/Views/Shared/Applicant.cshtml";
+}
+
+
+<div class="form-horizontal">
+    
+    <hr />
+    @Html.ValidationSummary(true, "", new { @class = "text-danger" })
+
+    <div class="form-group">
+        <h5>Personal Info</h5>
+        @Html.LabelFor(model => model.NameofApplicant, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.NameofApplicant, new { htmlAttributes = new { @class = "form-control" } })
+          
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.FatherName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.FatherName, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+        @Html.LabelFor(model => model.MotherName, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.MotherName, new { htmlAttributes = new { @class = "form-control" } })
+          
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Email, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.Email, new { htmlAttributes = new { @class = "form-control" } })
+           
+        </div>
+        @Html.LabelFor(model => model.MobileNo, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.MobileNo, new { htmlAttributes = new { @class = "form-control" } })
+           
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.ParmanentAddress, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.ParmanentAddress, new { htmlAttributes = new { @class = "form-control" } })
+           
+        </div>
+        @Html.LabelFor(model => model.Nationality, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.Nationality, new { htmlAttributes = new { @class = "form-control" } })
+           
+        </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.DateofBirth, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.DateofBirth, "", new { @class = "text-danger" })
+        </div>
+    </div>
+
+    <hr />
+    <div class="form-group">
+        <h5>Accademic Qualification</h5>
+        @Html.LabelFor(model => model.SSCSchool, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.SSCSchool, new { htmlAttributes = new { @class = "form-control" } })
+           
+        </div>
+        @Html.LabelFor(model => model.SSCGroup, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.SSCGroup, new { htmlAttributes = new { @class = "form-control" } })
+          
+        </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.SSCYear, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.SSCYear, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+        @Html.LabelFor(model => model.SSCPoint, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.SSCPoint, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.HSCCollege, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.HSCCollege, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+        @Html.LabelFor(model => model.HSCGroup, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.HSCGroup, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(model => model.HSCYear, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.HSCYear, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+        @Html.LabelFor(model => model.HSCPoint, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.HSCPoint, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+    </div>
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(model => model.BachelorId, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            
+            @Html.DisplayFor(model => model.BachelorId, "", new { @class = "text-danger" })
+        </div>
+        @Html.LabelFor(model => model.BachelorUniversity, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.BachelorUniversity, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.BachelorYear, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.BachelorYear, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+        @Html.LabelFor(model => model.BachelorGrade, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.BachelorGrade, new { htmlAttributes = new { @class = "form-control" } })
+         </div>
+    </div>
+    <hr />
+    <div class="form-group">
+        @Html.LabelFor(model => model.MasterUniversity, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.MasterUniversity, new { htmlAttributes = new { @class = "form-control" } })
+          </div>
+        @Html.LabelFor(model => model.MasterYear, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-4">
+            @Html.DisplayFor(model => model.MasterYear, new { htmlAttributes = new { @class = "form-control" } })
+          </div>
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.MasterGrade, htmlAttributes: new { @class = "control-label col-md-2" })
+        <div class="col-md-10">
+            @Html.DisplayFor(model => model.MasterGrade, new { htmlAttributes = new { @class = "form-control" } })
+           </div>
+    </div>
+    <img src="../@Model.PhotoPath" width="100" height="100"/> &nbsp;&nbsp;&nbsp;
+    <img src="../@Model.SignaturePath" width="100" height="100" />&nbsp;&nbsp;&nbsp;
+    <img src="../@Model.BachelorCertificatePath" width="100" height="100" />
+    
+</div>
